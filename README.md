@@ -1,21 +1,123 @@
-<h1 align="center">Hi 👋, I'm Raul naskar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+ 
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raul-naskar01" alt="raul-naskar01" /></a> </p>
+# 👋 Hi, I'm Raul Naskar
 
-- 🔭 I’m currently working on [student performance prediction](https://github.com/raul-naskar01/student-performance-prediction)
+### 💻 Software Developer | Java & Android | Machine Learning | Cloud Computing
 
-- 🌱 I’m currently learning **aws**
+Building practical applications and exploring technologies that solve real-world problems.
 
-- 📫 How to reach me **raulnaskar1234@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-raul--naskar01-181717?style=for-the-badge&logo=github)](https://github.com/raul-naskar01)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulnaskar1234@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=raul-naskar01&style=for-the-badge&color=blueviolet)](https://github.com/raul-naskar01)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raul-naskar01&show_icons=true&locale=en&layout=compact" alt="raul-naskar01" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raul-naskar01&" alt="raul-naskar01" /></p>
+- 🔭 Currently working on **Student Performance Prediction**
+- 🌱 Currently learning **AWS and Cloud Computing**
+- 💻 Interested in **Software Development, Android Development, and Machine Learning**
+- 🛠️ Building projects using Java, Python, and modern development tools
+- 📫 Reach me at: **raulnaskar1234@gmail.com**
+- 🌍 Based in India
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,docker,linux,mysql" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=aws,pytorch" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raul-naskar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-naskar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=raul-naskar01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raul-naskar01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## ⭐ GitHub Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraul-naskar01&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" alt="Public repository count" />
+
+<img src="https://img.shields.io/badge/GitHub%20Stars-Dynamic%20Stats-FFD700?style=for-the-badge&logo=github" alt="GitHub stars" />
+
+<img src="https://img.shields.io/badge/Developer-India-orange?style=for-the-badge&logo=codeforces" alt="Developer location" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/raul-naskar01/student-performance-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raul-naskar01&repo=student-performance-prediction&theme=tokyonight&hide_border=true" alt="Student Performance Prediction project" />
+</a>
+
+</div>
+
+### 🔍 More Projects
+
+- **Student Performance Prediction** — A machine learning project focused on predicting student performance.
+- **Expense Tracker Android App** — A Java-based Android application project. 
+
+[Explore all my repositories →](https://github.com/raul-naskar01?tab=repositories)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:raulnaskar1234@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/raul-naskar01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+### 💡 "Code. Learn. Build. Improve. Repeat."
+
+</div>
